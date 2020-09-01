@@ -16,7 +16,7 @@
 
 
 # -- Project information -----------------------------------------------------
-
+master_doc = 'index'
 project = 'proyecto_Marvel'
 copyright = '2020, Carlos Gonzalez'
 author = 'Carlos Gonzalez'
