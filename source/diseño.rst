@@ -135,9 +135,9 @@ Mock up de versión responsiva:
 -------------------------------
 
 .. image :: ../images/mockUpMobil01.JPG
-Wireframe de modo responsivo ejemplo en Mi Perfil
+Mock up de modo responsivo ejemplo en Mi Perfil
 
 
 .. image :: ../images/mockUpMobil03.JPG
-Wireframe de modo responsivo ejemplo en Mi Perfil modo edición
+Mock up de modo responsivo ejemplo en Mi Perfil modo edición
 
