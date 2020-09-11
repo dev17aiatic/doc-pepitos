@@ -33,9 +33,13 @@ Guía
    :maxdepth: 2
    :caption: Contenido:
 
-   license
-   manual_de_usuario
+   general
+   diseño
+   desarrollo
+   manual_de_usuario 
    casos_de_uso
+   license
+
    help
 
 
