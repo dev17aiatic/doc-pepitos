@@ -3,30 +3,43 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-la documentacion de marvel-project by carlos
-============================================
 
-Documentacion del proyecto
+Documentacion de marvel-project 
+============================================
+""""""""""""""""""""""""""""""""""""""""
+
+
+Equipo Marvel-AIATIC 2020
 ===========================
 
-Proyecto del equipo Marvel para AIATIC, practicas UNAB 2020.::
+Este es el primer proyecto en grupo desarrollado para las practicas en AIATIC, el esquipo fue nombrado como "equipo Marvel" y desarrollado por los practicantes de la UNAB Carlos Francisco Gonzalez Mantilla y Yeison Alexander Rey Sepulveda
 
-    print 'hello'
-    >>hello
 
-Guide
+
+                        AIATIC 2020-Practicas UNAB 2020.
+
+ ::
+
+    Bienvenidos al 'PROYECTO MARVEL'
+    >>2020
+
+Guía
 -----
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contenido:
 
+   general
+   diseño
+   desarrollo
+   manual_de_usuario 
    license
    help
 
 
-Indices and tables
+Índices y tablas
 ==================
 
 * :ref:`genindex`

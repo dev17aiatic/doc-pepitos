@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 master_doc = 'index'
-project = 'proyecto_Marvel'
-copyright = '2020, Carlos Gonzalez'
-author = 'Carlos Gonzalez'
+project = 'Proyecto Marvel'
+copyright = '2020, Carlos Gonzalez & Yeison Rey'
+author = 'Carlos Gonzalez & Yeison Rey (AIA)'
 
 # The full version, including alpha/beta/rc tags
 release = '0.0.1'
