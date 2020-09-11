@@ -26,3 +26,8 @@ Validación de campos, añadir web services para municipios y departamentos de C
 iii) Tercer Requerimiento:
 --------------------------
 Añadir formulario a un dashboard: un home con datos de los desarrolladores y sus respectivas fotos. un menú lateral a la izquierda, con el módulo de Registro, Inicio de Sesión, Registros, Mi Perfil, Video y salir. Sin errores de ortografía y responsivo. 
+Se debe agregar restricción de acceso para ciertos módulos dentro del dashboard, debe haber un sector privado y un sector público.
+
+iv) Cuarto Requerimiento: 
+--------------------------
+Mostrar datos de usuario en mi perfil, en donde podrá editar, guardar y poner/cambiar una foto de menos de 1Mb y en contenedor 300px. Entrega de WireFrame y MockUps en la sección de diseño
