@@ -2,3 +2,4 @@
 
 #This is to ignore read the docs build
 /docs/build
+build/
