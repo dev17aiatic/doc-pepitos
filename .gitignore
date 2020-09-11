@@ -1,4 +1,7 @@
 #This is the gitignore#
 
 #This is to ignore read the docs build
+
+/docs/build
+
 build/
