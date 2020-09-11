@@ -1,5 +1,4 @@
 #ignore files
 
-./build
-./diagramas de uso
+_build
 
