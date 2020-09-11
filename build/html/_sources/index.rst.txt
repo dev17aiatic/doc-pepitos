@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-la documentacion de marvel-project by carlos
+Documentación Proyecto Equipo Marvel
 ============================================
 
 Documentacion del proyecto
@@ -22,6 +22,7 @@ Guide
    :maxdepth: 2
    :caption: Contents:
 
+   General
    license
    help
 
