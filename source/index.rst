@@ -12,13 +12,15 @@ Documentacion de marvel-project
 Equipo Marvel-AIATIC 2020
 ===========================
 
-Este es el primer proyecto en grupo desarrollado para las practicas en AIATIC, el esquipo fue nombrado como "equipo Marvel" y desarrollado por los practicantes de la UNAB Carlos Francisco Gonzalez Mantilla y Yeison Alexander Rey Sepulveda
+Este es el primer proyecto en grupo desarrollado para las practicas en AIATIC, el esquipo fue nombrado como "equipo Marvel" y desarrollado por los practicantes de la UNAB **Carlos Francisco Gonzalez Mantilla** y **Yeison Alexander Rey Sepulveda**
 
 
 
-                        AIATIC 2020-Practicas UNAB 2020.
+.. centered:: AIATIC 2020-Practicas UNAB 2020.
 
- ::
+
+
+::
 
     Bienvenidos al 'PROYECTO MARVEL'
     >>2020
@@ -35,13 +37,15 @@ Guía
    diseño
    desarrollo
    manual_de_usuario 
+   casos_de_uso
    license
+
    help
 
 
-Índices y tablas
-==================
+.. Índices y tablas
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
