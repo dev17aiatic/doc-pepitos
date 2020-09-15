@@ -174,10 +174,10 @@ Mock up de registros
 .. image :: ../images/mockUPWeb08.png
 Mock up de vídeo
 
-.. image :: ../images/mockUPWeb09.png
+.. image :: ../images/mockUpWeb09.png
 Mock up de equipo
 
-.. image :: ../images/mockUPWeb10.png
+.. image :: ../images/mockUpWeb10.png
 Mock up de contacto
 
 
@@ -187,16 +187,16 @@ Mock up de contacto
 Mock up de versión responsiva:
 -------------------------------
 
-.. image :: ../images/mockUpMobil01.JPG
+.. image :: ../images/mockUpMobil01.jpg
 Mock up de modo responsivo ejemplo en Mi Perfil
 
 
-.. image :: ../images/mockUpMobil03.JPG
+.. image :: ../images/mockUpMobil03.jpg
 Mock up de modo responsivo ejemplo en Mi Perfil modo edición
 
-.. image :: ../images/mockUpMobil04.JPG
+.. image :: ../images/mockUpMobil04.jpg
 Mock up de modo responsivo ejemplo en Contacto
 
-.. image :: ../images/mockUpMobil05.JPG
+.. image :: ../images/mockUpMobil05.jpg
 Mock up de modo responsivo ejemplo en Equipo
 
