@@ -139,6 +139,12 @@ Wireframe de modo responsivo ejemplo en Mi Perfil
 .. image :: ../images/wfMarvelMovil03.JPG
 Wireframe de modo responsivo ejemplo en Mi Perfil modo edición
 
+.. image :: ../images/wfMarvelMovil04.JPG
+Wireframe de modo responsivo ejemplo en Equipo
+
+.. image :: ../images/wfMarvelMovil05.JPG
+Wireframe de modo responsivo ejemplo en Contacto
+
 
 
 Mock up de versión de escritorio:
@@ -187,4 +193,10 @@ Mock up de modo responsivo ejemplo en Mi Perfil
 
 .. image :: ../images/mockUpMobil03.JPG
 Mock up de modo responsivo ejemplo en Mi Perfil modo edición
+
+.. image :: ../images/mockUpMobil04.JPG
+Mock up de modo responsivo ejemplo en Contacto
+
+.. image :: ../images/mockUpMobil05.JPG
+Mock up de modo responsivo ejemplo en Equipo
 
