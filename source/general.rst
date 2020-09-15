@@ -13,7 +13,7 @@ Requerimientos del proyecto:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Los requerimientos del proyecto son entregados con mucho detalle por el supervisor de los desarrolladores, estos requerimientos exigen ser seguidos de manera literal.
-En esta sección de detallan de manera general, todos los aspectos de diseño relacionado con cada componente/modulo/item dentro de estos requerimientos serán especificados en la sección de diseño
+En esta sección de detallan de manera general, todos los aspectos de diseño relacionado con cada componente/modulo/item dentro de estos requerimientos serán especificados en su respectiva sección.
 
 i) Primer Requerimiento:
 ------------------------
@@ -31,3 +31,20 @@ Se debe agregar restricción de acceso para ciertos módulos dentro del dashboar
 iv) Cuarto Requerimiento: 
 --------------------------
 Mostrar datos de usuario en mi perfil, en donde podrá editar, guardar y poner/cambiar una foto de menos de 1Mb y en contenedor 300px. Entrega de WireFrame y MockUps en la sección de diseño
+
+v) Quinto Requerimiento:
+-------------------------
+Crear para el portal un header y footer que estén presentes en todas las pantallas. este Header tendra el Logo a la izquierda superior.
+En el medio un menú que tenga los siguientes items: Inicio, Equipo, Contacto. El footer tendrá en el medio una frase de copyright que diga A&A Soluciones - TIC 2020© Todos los Derechos Reservados.
+
+1. Inicio se mantiene en el home que ya tenemos
+""""""""""""""""""""""""""""""""""""""""""""""""
+
+2. Equipo con pequeña bio de los developer
+"""""""""""""""""""""""""""""""""""""""""""
+
+3. En Contacto crear formulario
+"""""""""""""""""""""""""""""""
+
+Este menú y todo su contenido siempre será público Y responsive como todo el proyecto. Todos los detalles técnicos de este requerimiento se ampliarán en diseño y desarrollo
+
