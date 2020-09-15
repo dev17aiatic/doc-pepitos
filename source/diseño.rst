@@ -1,4 +1,4 @@
-Diseño Front End
+Diseño & Estilo
 ==================
 El diseño del front end de este proyecto, se trabajó utilizando HTML5/CSS Y Angular Material para cualquier tipo de componente e iconos que se requieran.
 
@@ -55,10 +55,43 @@ d.)Módulos/Componentes del menú:
 """"""""""""""""""""""""""""""""
 Deben ser responsivos.
 
+
 e.)El logo:
 """""""""""
 En modo de escritorio debe ir a la esquina superior izquierda.
 Debe ir al centro en modo responsivo y agregar botón de menú.
+
+iii)Tercer Requerimiento:
+-------------------------
+
+Añadir todo estos componentes y módulos al dashboard: En el home foto de los developers y sus datos.
+Menú lateral a la izquierda con los componentes ya especificados.
+restricciones de acceso público y privado. debe ser responsivo.
+
+
+iv)Cuarto Requerimiento:
+-------------------------
+
+En esta sección se espécifica todo el estilizado de Mi Perfil. el cual se podrá editar,
+guardar & poner/cambiar una foto de menos de 1Mb Y en un contenedor de 300px con borde circular. Creación de Wireframe y MockUps.
+
+
+v)Quinto Requerimiento:
+------------------------
+
+Crear un header y un footer. el header llevará el logo en la parte superior izquierda. en el medio un menú que tenga los siguientes items:
+Inicio, Equipo & Contacto.
+El footer tendrá en elmedio una frase de Copyright.
+
+El inicio se mantendra como se ha especificado.
+En la sección de equipo cada miembro debe escribir una pequeña bio.
+El texto de la bio debe situarse al lado derecho de la foto.
+En contacto se creará un formulario:
+
+a.)Nombre Completo, Mail, Motivo, Campo de texto(Mensaje) y Botón 'Enviar'.
+b.)Motivo:Dropdown(Contratos, Proyectos y Cobranzas).
+c.)En modo responsivo, aparecen dos hamburguesas, cada una en un extremo del header y con el logo en medio, cada hamburguesa desplegará un menú.
+d.)Todos los campos obligatorios.
 
 Maquetación
 ===========
@@ -88,6 +121,12 @@ Wireframe de mi Perfil
 
 .. image :: ../images/wfMarvel07.PNG
 Wireframe de registros
+
+.. image :: ../images/wfMarvel08.PNG
+Wireframe de contact
+
+.. image :: ../images/wfMarvel09.PNG
+Wireframe de equipo
 
 Wireframe Modo Responsive:
 ---------------------------
@@ -128,6 +167,14 @@ Mock up de registros
 
 .. image :: ../images/mockUPWeb08.PNG
 Mock up de vídeo
+
+.. image :: ../images/mockUPWeb09.PNG
+Mock up de equipo
+
+.. image :: ../images/mockUPWeb10.PNG
+Mock up de contacto
+
+
 
 
 
