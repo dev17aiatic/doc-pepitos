@@ -93,6 +93,14 @@ b.)Motivo:Dropdown(Contratos, Proyectos y Cobranzas).
 c.)En modo responsivo, aparecen dos hamburguesas, cada una en un extremo del header y con el logo en medio, cada hamburguesa desplegará un menú.
 d.)Todos los campos obligatorios.
 
+vi)Sexto Requerimiento:
+---------------------------
+Añadir nuevos integrantes, cambiar el logo y el color del header.
+
+Los nuevos integrantes se añaden en la seccion de equipo con su respectiva bio.
+El logo se cambia manteniendose en la ubicación ya establecida.
+El color del header se cambia a blanco, se cambian los fondos de todas las secciones. 
+
 Maquetación
 ===========
 
