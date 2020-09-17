@@ -48,3 +48,7 @@ En el medio un menú que tenga los siguientes items: Inicio, Equipo, Contacto. E
 
 Este menú y todo su contenido siempre será público Y responsive como todo el proyecto. Todos los detalles técnicos de este requerimiento se ampliarán en diseño y desarrollo
 
+vi) Sexto Requerimiento:
+--------------------------------------
+Compartir el proyecto con los demás compañeros. 
+Añadir los nuevos integrantes, cambiar el nombre del proyecto, cambiar el logo  y el color del header se pone en blanco.

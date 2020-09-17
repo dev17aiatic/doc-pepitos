@@ -47,4 +47,15 @@ v)Quinto Requerimiento(Menú y Contacto):
 -----------------------
 
 a.)Añadir al header un menú en el medio con los componentes de Inicio, Equipo y Contacto.
-b.)crear formulario para contacto. en el formulario, validar que sea un correo, se debe almacenar el formulario enviado en la Base de datos, y enviar la información de ese contacto por correo electrónico a CEO@AIATIC.COM
+b.)crear formulario para contacto. en el formulario, validar que sea un correo, se debe almacenar el formulario enviado en la Base de datos, 
+y enviar la información de ese contacto por correo electrónico a CEO@AIATIC.COM
+
+vi)Sexto Requerimiento (Nuevos integrantes):
+-----------------------------------
+a)Crear una copia del proyecto desarrollado
+b)Compartir acceso a la copia del proyecto
+c)Agregar nuevas funciones 
+  1.Añadir los nuevos miembros
+  2.Cambiar nombre del proyecto
+  3.Cambiar el Logo
+  4.Cambiar el color del header.
