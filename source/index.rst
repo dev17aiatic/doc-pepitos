@@ -4,15 +4,16 @@
    contain the root `toctree` directive.
 
 
-Documentacion de marvel-project 
+Documentacion de Pepitos 
 ============================================
 """"""""""""""""""""""""""""""""""""""""
 
 
-Equipo Marvel-AIATIC 2020
+Equipo Pepitos
 ===========================
 
-Este es el primer proyecto en grupo desarrollado para las practicas en AIATIC, el esquipo fue nombrado como "equipo Marvel" y desarrollado por los practicantes de la UNAB **Carlos Francisco Gonzalez Mantilla** y **Yeison Alexander Rey Sepulveda**
+Esta es una copia del proyecto marvel, el equipo fue nombrado como "equipo Pepitros" y 
+desarrollado por los practicantes de la UNAB **Karen Juliana Gómez Jaimes** y **Ronal Yahir Landazabal Vargas**
 
 
 
@@ -22,7 +23,7 @@ Este es el primer proyecto en grupo desarrollado para las practicas en AIATIC, e
 
 ::
 
-    Bienvenidos al 'PROYECTO MARVEL'
+    Bienvenidos al 'PROYECTO PEPITOS'
     >>2020
 
 Guía
