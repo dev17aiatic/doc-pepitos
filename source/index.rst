@@ -4,16 +4,12 @@
    contain the root `toctree` directive.
 
 
-Documentacion de Pepitos 
+Documentacion de pepitos
 ============================================
 """"""""""""""""""""""""""""""""""""""""
 
 
 Equipo Pepitos
-===========================
-
-Esta es una copia del proyecto marvel, el equipo fue nombrado como "equipo Pepitros" y 
-desarrollado por los practicantes de la UNAB **Karen Juliana Gómez Jaimes** y **Ronal Yahir Landazabal Vargas**
 
 
 
